@@ -11,11 +11,13 @@ defineProps({
   <div class="greetings">
     <h1 class="green">{{ msg }}</h1>
     <h3>
-      A demo showcasing the Chatwoot plugin for Vue.js.
+      Demo showcasing the Chatwoot plugin for Vue.js.
       <p>
         <a href="https://vitejs.dev/" target="_blank" rel="noopener">Docs</a>
         &middot;
         <a href="https://vuejs.org/" target="_blank" rel="noopener">Chatwoot</a>
+        &middot;
+        <a href="https://github.com/fayazara/vue-chatwoot-plugin" target="_blank" rel="noopener">Github Repo</a>
       </p>
     </h3>
   </div>
